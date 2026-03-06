@@ -34,3 +34,15 @@ This project helped me understand:
 - Deep learning object detection
 
 - Working with pretrained AI models
+
+
+## 📌 Internship Information
+
+This project was completed as part of the **Artificial Intelligence Internship at SoftGrowTech**, where interns build practical AI applications involving NLP, machine learning, and computer vision.
+
+---
+
+## 👨‍💻 Author
+
+Developed by:
+**Michelle De Melo**
