@@ -26,10 +26,11 @@ python detect_track.py
 4. The webcam will start and detect objects in real time.
 Press **ESC** to stop the program.
 ## 📷 Project Demo
-Open screenshot folder to check demo
+Open screenshots to check demo
 
 ## 📚 Learning Outcome
 This project helped me understand:
 - Real-time computer vision
 - Deep learning object detection
+
 - Working with pretrained AI models
